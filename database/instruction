@@ -1,0 +1,4 @@
+Hello! This program created for you take a chance to create a specific remote database!
+Firstly, you have to run the next command in your UNIX-like system: <sudo apt install libjson-c-dev>.
+Then you should run two programs: firstly go to the server directory, open it in the terminal and make it, then you have to come back and go to the client directory and also make it. Now you can create your own remote database! Do not use combination <Cnrl + Z>, because then used port will be corupted in programs! Moreover if you did it just open souses files of both programs (they locate in source directory in server and client directory) and change port. Do not use < 1024 because they are reserved! All the best!
+	Denys
